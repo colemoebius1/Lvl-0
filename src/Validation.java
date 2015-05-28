@@ -16,22 +16,22 @@ for(int i=0; i <=10; i++)
 	
 	if(randomNumber == 1)
 	{
-		System.out.println("not an fgt");
+		JOptionPane.showMessageDialog(null,"not an fgt");
 	}	
 	if(randomNumber == 2)	
-	{System.out.println("ur ok");
+	{JOptionPane.showMessageDialog(null,"ur ok");
 	}	
 	if(randomNumber == 3)
 	{
-		System.out.println("i can tolerate u");
+		JOptionPane.showMessageDialog(null,"i can tolerate u");
 	}
 	if(randomNumber == 4)	
 	
-		{System.out.println("ur as fast as sanic");
+		{JOptionPane.showMessageDialog(null,"ur as fast as sanic");
 		}
 	if(randomNumber == 5)
 	{
-		System.out.println("Ur so dank m8");
+		JOptionPane.showMessageDialog(null,"Ur so dank m8");
 	}
 }
 		// 4. Repeat all the code above 10 times
